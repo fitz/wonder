@@ -1,0 +1,20 @@
+body {
+  font-family: 'Karla', sans-serif;
+  background-image: url("../images/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ffffff;
+  padding-bottom: 75px; }
+  @media (min-width: 768px) {
+    body {
+      padding-bottom: 110px; } }
+
+.page-title {
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: 6px; }
+  @media (max-width: 767px) {
+    .page-title {
+      font-size: 35px;
+      margin-bottom: 14px; } }
